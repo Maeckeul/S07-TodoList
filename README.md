@@ -52,7 +52,8 @@ Chacun communique et se coordonne avec les autres.
 
 Fiche récap : https://github.com/O-clock-Alumni/fiches-recap/blob/master/gestion-projet/methode-scrum.md#product-owner
 
-Guillaume Rejalot tiendra le rôle de _Product Owner_.  
+Guillaume Rejalot tiendra le rôle de _Product Owner_ 🤠.  
+
 Le _Product Owner_ est l'unique rédacteur du _Product Backlog_.  
 Le _Product Owner_ peut aider les développeurs pour clarifier certaines fonctionnalités, répondre aux questions sur le projet.  
 Il est dépositaire de la vision.
@@ -61,7 +62,7 @@ Il est dépositaire de la vision.
 
 Fiche récap : https://github.com/O-clock-Alumni/fiches-recap/blob/master/gestion-projet/methode-scrum.md#scrum-master
 
-Guillaume Sylvestre tiendra le rôle de _Scrum Master_ :pray:
+Guillaume Sylvestre tiendra le rôle de _Scrum Master_  😎
 
 Le _Scrum Master_ est une aide, un support aux autres membres de l'équipe.  
 Il s'assure que tout le monde suive bien la méthodologie _Scrum_.  
